@@ -1,0 +1,38 @@
+﻿  controller.c
+C:\Programming\SpringItOn\SpringItOn\common.h(1,8): error C2059: syntax error: 'string'
+C:\Programming\SpringItOn\SpringItOn\common.h(3,10): fatal  error C1083: Cannot open include file: 'raylib.h': No such file or directory
+  damper.c
+C:\Programming\SpringItOn\SpringItOn\common.h(1,8): error C2059: syntax error: 'string'
+C:\Programming\SpringItOn\SpringItOn\common.h(3,10): fatal  error C1083: Cannot open include file: 'raylib.h': No such file or directory
+  deadblending.c
+C:\Programming\SpringItOn\SpringItOn\common.h(1,8): error C2059: syntax error: 'string'
+C:\Programming\SpringItOn\SpringItOn\common.h(3,10): fatal  error C1083: Cannot open include file: 'raylib.h': No such file or directory
+  doublespring.c
+C:\Programming\SpringItOn\SpringItOn\common.h(1,8): error C2059: syntax error: 'string'
+C:\Programming\SpringItOn\SpringItOn\common.h(3,10): fatal  error C1083: Cannot open include file: 'raylib.h': No such file or directory
+  inertialization.c
+C:\Programming\SpringItOn\SpringItOn\common.h(1,8): error C2059: syntax error: 'string'
+C:\Programming\SpringItOn\SpringItOn\common.h(3,10): fatal  error C1083: Cannot open include file: 'raylib.h': No such file or directory
+  interpolation.c
+C:\Programming\SpringItOn\SpringItOn\common.h(1,8): error C2059: syntax error: 'string'
+C:\Programming\SpringItOn\SpringItOn\common.h(3,10): fatal  error C1083: Cannot open include file: 'raylib.h': No such file or directory
+  resonance.c
+C:\Programming\SpringItOn\SpringItOn\common.h(1,8): error C2059: syntax error: 'string'
+C:\Programming\SpringItOn\SpringItOn\common.h(3,10): fatal  error C1083: Cannot open include file: 'raylib.h': No such file or directory
+  smoothing.c
+C:\Programming\SpringItOn\SpringItOn\common.h(1,8): error C2059: syntax error: 'string'
+C:\Programming\SpringItOn\SpringItOn\common.h(3,10): fatal  error C1083: Cannot open include file: 'raylib.h': No such file or directory
+  Source.c
+  springdamper.c
+C:\Programming\SpringItOn\SpringItOn\common.h(1,8): error C2059: syntax error: 'string'
+C:\Programming\SpringItOn\SpringItOn\common.h(3,10): fatal  error C1083: Cannot open include file: 'raylib.h': No such file or directory
+  timedspring.c
+C:\Programming\SpringItOn\SpringItOn\common.h(1,8): error C2059: syntax error: 'string'
+C:\Programming\SpringItOn\SpringItOn\common.h(3,10): fatal  error C1083: Cannot open include file: 'raylib.h': No such file or directory
+  tracking.c
+C:\Programming\SpringItOn\SpringItOn\common.h(1,8): error C2059: syntax error: 'string'
+C:\Programming\SpringItOn\SpringItOn\common.h(3,10): fatal  error C1083: Cannot open include file: 'raylib.h': No such file or directory
+  velocityspring.c
+C:\Programming\SpringItOn\SpringItOn\common.h(1,8): error C2059: syntax error: 'string'
+C:\Programming\SpringItOn\SpringItOn\common.h(3,10): fatal  error C1083: Cannot open include file: 'raylib.h': No such file or directory
+  Generating Code...
