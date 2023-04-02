@@ -1,2 +1,17 @@
-﻿  controller.c
+﻿  deadblending.c
+  tracking.c
+C:\Programming\raygui\src\raygui.h(4115,115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Programming\raygui\src\raygui.h(4115,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Programming\SpringItOn\SpringItOn\common.h(66,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Programming\SpringItOn\SpringItOn\common.h(117,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Programming\SpringItOn\SpringItOn\common.h(118,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Programming\SpringItOn\SpringItOn\common.h(223,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Programming\SpringItOn\SpringItOn\common.h(228,29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Programming\SpringItOn\SpringItOn\tracking.c(13,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Programming\SpringItOn\SpringItOn\tracking.c(18,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Programming\SpringItOn\SpringItOn\tracking.c(247,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Programming\SpringItOn\SpringItOn\tracking.c(267,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Programming\SpringItOn\SpringItOn\tracking.c(310,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Programming\SpringItOn\SpringItOn\tracking.c(314,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
   SpringItOn.vcxproj -> C:\Programming\SpringItOn\x64\Debug\SpringItOn.exe

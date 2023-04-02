@@ -146,7 +146,17 @@
   <ItemGroup>
     <ClCompile Include="controller.c" />
     <ClCompile Include="damper.c" />
+    <ClCompile Include="deadblending.c" />
+    <ClCompile Include="doublespring.c" />
+    <ClCompile Include="inertialization.c" />
+    <ClCompile Include="interpolation.c" />
+    <ClCompile Include="resonance.c" />
+    <ClCompile Include="smoothing.c" />
     <ClCompile Include="Source.c" />
+    <ClCompile Include="springdamper.c" />
+    <ClCompile Include="timedspring.c" />
+    <ClCompile Include="tracking.c" />
+    <ClCompile Include="velocityspring.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common.h" />

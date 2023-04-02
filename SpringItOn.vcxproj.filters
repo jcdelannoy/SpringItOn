@@ -24,6 +24,36 @@
     <ClCompile Include="damper.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="deadblending.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="doublespring.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="inertialization.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="interpolation.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="resonance.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="smoothing.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="springdamper.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="timedspring.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tracking.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="velocityspring.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common.h">
